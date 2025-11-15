@@ -1,0 +1,12 @@
+
+# Core computer vision libraries
+opencv-python
+scikit-image
+# Numerical and scientific computing
+numpy
+scipy
+# Visualization
+matplotlib
+ipykernel
+
+
